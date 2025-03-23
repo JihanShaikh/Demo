@@ -1,3 +1,4 @@
 # Demo
 This is my first git repository
-Author  - Jihan Shaikh
+Author - Jihan Ahmad
+ 
